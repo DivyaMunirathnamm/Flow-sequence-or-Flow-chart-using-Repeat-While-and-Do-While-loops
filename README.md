@@ -21,15 +21,15 @@ Variable: counter (Int32, default = 1). Use While activity with condition: count
 
 # Repeat Number of Times:
 
-<img width="1128" height="688" alt="487825066-0b88e859-0716-4932-8525-43fcca64c74e" src="https://github.com/user-attachments/assets/dc3292c4-2e46-418e-937f-25980bf3693b" />
+<img width="1920" height="1080" alt="Screenshot (23)" src="https://github.com/user-attachments/assets/5d7c7cd9-42d5-4af8-ab07-d12976281ae6" />
 
 # Do While loop:
-<img width="1075" height="562" alt="487820259-c816b6e5-e038-4288-b47b-e4a677e5cd16" src="https://github.com/user-attachments/assets/633aae46-4f80-4510-857d-e9ee0f3df46c" />
 
+<img width="1920" height="1080" alt="Screenshot (25)" src="https://github.com/user-attachments/assets/932b9009-29f1-4940-aea3-ea7c0a845b32" />
 
 # While Loop:
-<img width="1192" height="594" alt="487827287-41fb03ff-fec9-4f2a-b512-5b1468fd6217" src="https://github.com/user-attachments/assets/52ad3723-77a8-435a-a206-9152d92f083d" />
 
+<img width="1920" height="1080" alt="Screenshot (24)" src="https://github.com/user-attachments/assets/bcfe3e69-fc2d-44b4-a08a-14d643407ee6" />
 
 # Result:
 
